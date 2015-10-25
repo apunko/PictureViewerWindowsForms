@@ -2,8 +2,8 @@ c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\bin\Debug\Spp2.ex
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\bin\Debug\Spp2.exe
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\bin\Debug\Spp2.pdb
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.csprojResolveAssemblyReference.cache
-c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.Form1.resources
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.Properties.Resources.resources
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.csproj.GenerateResource.Cache
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.exe
 c:\users\anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\Spp2\Spp2\obj\Debug\Spp2.pictureViewerForm.resources

@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -76,6 +77,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_circular_arrow_turn_rotation_rotate_180-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_circular_arrow_turn_rotation_rotate_360-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_circular_arrow_turn_rotation_rotate_180-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_circular_arrow_turn_rotation_rotate_360-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_brightness_contrast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_write_pencil_pen_page_vector_text_symbol_simple_pictogram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrast %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
